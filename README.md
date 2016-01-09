@@ -93,5 +93,15 @@ Egy TODO feltöltésének menete:
 + Követelmények
   + 2GB memória
   + 1GB HDD
-+ Ember.js letöltés a 'git clone https://github.com/i3ence/familytodo.git' paracssal
-+ Rest.api letöltés a 'git clone https://github.com/i3ence/afbead2-rest.git' paracssal
++ Letöltés
+  + Ember.js a 'git clone https://github.com/i3ence/familytodo.git' paracssal
+  + Rest.api a 'git clone https://github.com/i3ence/afbead2-rest.git' paracssal
++ Az alkalmazás használata:
++ A főoldalról elérhető a feladatok és felhasználók listája
+  + Feladatok listája
+    + Hozzáadás az alsó 'Új TODO Felvétele' gombbal.
+      + Itt megadjuk a feladat végrehajtóját, a leírást, és OK gombbal mentjük.
+    + Kész feladatok törlése és szerkesztés a feladat sorában a megfelelő gombokkal hajtható végre.
+  + Felhasználók listája
+    + Működési elv hasonlóan a feladatok listájához
++ Célszerű először a felhasználókat létrehozni, hogy hozzájuk lehessen rendelni a feladatokat.
