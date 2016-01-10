@@ -1,5 +1,3 @@
-Work in Progress
-
 # Alalmazások Fejlesztése 3. beadandó
 
 Készítette: Zsiga Bence Krisztián
@@ -10,13 +8,16 @@ Készítette: Zsiga Bence Krisztián
 ###Feladat:
 
 ####Funkcionális elvárások:
-
-+ Work in Progress
-+ Work in Progress
++ legalább két modellt, egy-sok kapcsolatban
++ legalább 1 űrlapot
++ legalább 1 listázó oldalt
++ legyen lehetőség új felvételére
++ legyen lehetőség meglévő szerkesztésére
++ legyen lehetőség meglévő törlésére
 
 ####Nem funkcionális követelmények
-+ Work in Progress
-+ Work in Progress
++ REST API végpont kialakítása
++ szerveroldali perzisztálás fájlba
 
 ###Használatieset-modell
 
